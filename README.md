@@ -1,4 +1,4 @@
-# Go go_cli with Cobra
+# Go CLI with Cobra
 
 ## CLI
 
