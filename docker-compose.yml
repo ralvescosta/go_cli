@@ -1,0 +1,10 @@
+version: "3"
+
+services: 
+  go_cli:
+    build: .
+    container_name: go_cli
+    ports: 
+      - 3333:3333
+    volumes: 
+      - .:/go/src/
